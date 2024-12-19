@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Rahul Kaushik
-## Results-driven CAE Engineer and Data Scientist with 9 years of experience in a Central Government department, specializing in Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD) simulations, and machine learning applications. Skilled in data analysis, statistical modeling, and developing machine learning solutions. Eager to transition into a Data Scientist role to leverage expertise in Machine Learning, Statistics, and Data Visualization, contributing to impactful, data-driven decision-making in a dynamic organization.
+# Results-driven CAE Engineer and Data Scientist with 9 years of experience in a Central Government department, specializing in Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD) simulations, and machine learning applications. Skilled in data analysis, statistical modeling, and developing machine learning solutions. Eager to transition into a Data Scientist role to leverage expertise in Machine Learning, Statistics, and Data Visualization, contributing to impactful, data-driven decision-making in a dynamic organization.
 
 <!--
 **kaushikrahul1993/kaushikrahul1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
