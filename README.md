@@ -63,4 +63,12 @@ Shri Govindram Seksaria Institute of Technology & Science, Indore
 ### 2017  
 **Issued by Indian Nuclear Society**
 - Application of Numerical Heat Transfer to Industrial Problems  
-- Application of Finite Element Technique in Industrial Problems  
+- Application of Finite Element Technique in Industrial Problems
+
+### 2016  
+**Issued by Indian Nuclear Society**
+- Design of Nuclear Pressure Vessel & Piping
+
+### 2015
+**Issued by Dale Carnegie & Associates Inc**
+- Executive Excellence Program
