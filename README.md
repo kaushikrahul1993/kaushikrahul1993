@@ -12,13 +12,7 @@ In parallel, I design data-driven solutions that transform complex datasets into
 ### Scientific Officer  
 **Raja Ramanna Centre for Advanced Technology (RRCAT)**  
 *2022 – Present*  
-
-Leading the development of suspension and seismic subsystems for **LIGO India**, including single- and multi-stage suspension assemblies and internal seismic isolation systems.  
-Key responsibilities include:
-- Finite element simulations and Mathematica-based modeling for design, prototyping, and experimental validation  
-- Development of control systems for precision instrumentation  
-- Application of machine learning models for precise optic steering and control  
-- Contribution to the 10 m interferometer (IFO) at the LIGO India Training & Testing (T&T) Facility  
+Leading the development of suspension and seismic subsystems at LIGO India, covering single- and multi-stage suspension assemblies and internal seismic isolation systems. Responsibilities include FEA simulations and Mathematica-based modeling for design, prototyping, and experimental validation, as well as developing control systems and machine learning models for precise optic steering and control of the 10 m interferometer (IFO) at the LIGO India Training and Testing (T&T) Facility.
 
 ---
 
@@ -26,12 +20,7 @@ Key responsibilities include:
 **Bhabha Atomic Research Centre (BARC)**  
 *2015 – 2022*  
 
-Led the development of impact-resistant hazardous material transportation casks in compliance with **IAEA SSR-6** standards.  
-Key responsibilities include:
-- CAD-based design and prototyping  
-- Structural, thermal, and impact analysis using FEA  
-- Monte Carlo simulations for safety assessment  
-- Experimental validation under simulated impact and drop conditions  
+Led the development of impact-resistant hazardous material transportation casks in compliance with IAEA SSR6 standards, using CAD for prototyping and FEA and Monte Carlo simulations, followed by experimental validation under simulated impact and drop conditions.  
 
 ---
 
@@ -42,7 +31,7 @@ Key responsibilities include:
 Learnbay, Bangalore  
 *2022 – 2024*
 
-### Orientation Course (With Distinction)  
+### Orientation Course  
 **Nuclear Science & Engineering**  
 Bhabha Atomic Research Centre, Mumbai  
 *2014 – 2015*
